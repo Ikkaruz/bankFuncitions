@@ -1,0 +1,1 @@
+web: ./build/install/ktor-BankFunctions-sample/bin/ktor-BankFunctions-sample
